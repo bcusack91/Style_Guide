@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.color-panel {
+    width: 31.3%;
+    display: inline-block;
+    margin: 10px 0px;
+}
+
+.Zen_Loop {
+    font-family: 'Zen Loop', cursive;
+    font-size: 20px;
+}
+
+.Helvetica {
+    font-family: Helvetica;
+}
+
+.Georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.off-White {
+    background-color: #ECEBED;
+}
+
+.secondary_color {
+    background-color: #0CF2E6;
+}
+
+.main_text_color {
+    background-color: #250DFC;
+    color: #ECEBED;
+}
+
+.secondary_text_color {
+    background-color: #0041E6;
+    color:#ECEBED;
+}
+
+.tbd_color {
+    background-color: #0DACFC;
+}
